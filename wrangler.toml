@@ -1,3 +1,7 @@
-name = "" # todo
-main = "index.js"
+name = "obsidian-worker"
+main = "src/index.js"
 compatibility_date = "2022-05-03"
+
+kv_namespaces = [
+  { binding = "KV", id = "69da8d3b4a8d49caa4e2872f879da5da", preview_id = "69da8d3b4a8d49caa4e2872f879da5da" }
+]
