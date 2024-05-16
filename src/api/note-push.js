@@ -5,6 +5,7 @@ const triggerFolders = [
   'General',
   'Reading',
   'Living',
+  'Trail',
 ]
 
 export default async (request, env) => {
