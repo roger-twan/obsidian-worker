@@ -2,10 +2,6 @@ import { Octokit } from 'octokit'
 
 const triggerFolders = [
   'Technical',
-  'General',
-  'Reading',
-  'Living',
-  'Trail',
 ]
 
 export default async (request, env) => {
